@@ -1,0 +1,14 @@
+#sectn{
+    background-color:lightcyan;
+}
+body{
+    background-color:lightblue;
+}
+.img-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img-style{
+   margin: 12px 5px;
+}
